@@ -18,7 +18,7 @@ public class JenkinsDemoApplication extends SpringBootServletInitializer {
 
     @RequestMapping("/hello")
     public String hello(){
-        return "hello warmcar123";
+        return "hello warmcar@#￥";
     }
 
     @Override
